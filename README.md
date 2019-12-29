@@ -14,4 +14,4 @@ html css js
 Both web and mobile.
 
 ## Live demo
-You can explore my personal blog site from [here](https://personal-blog-template.netlify.com/)
+You can explore my personal blog site from [here](https://personal-blog-template.netlify.com)
